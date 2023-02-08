@@ -1,0 +1,79 @@
+/* Write your CSS here */
+
+.top-container {
+  display: flex;
+  padding: 10px;
+  width: 100vw;
+  justify-content: center;
+  align-items: center;
+  height: 50vh;
+}
+.top-small1 {
+  margin-left: 20px;
+}
+.image {
+  height: 250px;
+  margin-left: 50px;
+  margin-top: 70px;
+}
+.nameInput {
+  width: 250px;
+  height: 30px;
+  margin: 10px;
+  margin-top: 0px;
+  margin-left: 0px;
+}
+textarea {
+  height: 150px;
+  margin: 10px;
+  width: 250px;
+  margin-left: 0px;
+  font-family: 'Roboto';
+  color: #334155;
+  font-weight: 500;
+}
+.button {
+  background-color: #0284c7;
+  border-radius: 5px;
+  color: aliceblue;
+  border: 0px;
+  padding: 7px;
+}
+h1 {
+  color: #1e293b;
+  font-family: 'Roboto';
+}
+p {
+  font-family: 'Roboto';
+  font-size: 13px;
+  color: #475569;
+  font-weight: 600;
+}
+hr {
+  width: 10px;
+}
+hr {
+  width: 70%;
+}
+.bottom-small {
+  display: flex;
+  margin-left: 200px;
+}
+.bottom {
+  display: flex;
+  flex-direction: column;
+}
+.count {
+  background-color: #0284c7;
+  padding: 5px;
+  border-radius: 5px;
+  color: aliceblue;
+  height: 22px;
+  text-align: center;
+  margin: 5px;
+}
+input {
+  font-family: 'Roboto';
+  color: #334155;
+  font-weight: 500;
+}
